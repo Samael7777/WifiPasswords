@@ -1,0 +1,5 @@
+﻿WlanOpenHandle
+WlanCloseHandle
+WlanGetProfileList
+WlanEnumInterfaces
+WlanGetProfile
